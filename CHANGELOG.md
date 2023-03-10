@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.1.1] - 2023-03-10
+
+* Added changes to make it okta-compatible via https://github.com/MISP/MISP/issues/8598
+
 ## [1.1.0] - 2022-10-19
 
 ### New

@@ -1,9 +1,15 @@
 {
-    "name": "jakub-onderka/openid-connect-php",
+    "name": "tomoconnor-pl/openid-connect-php",
     "description": "Bare-bones OpenID Connect client",
     "keywords": ["oidc", "openid", "jwt", "oauth2"],
     "license": "Apache-2.0",
-    "authors": [{
+    "authors": [
+        {
+        "name": "Tom O'Connor",
+        "email": "tom.oconnor@plentific.com"
+        },
+        
+        {
         "name": "Jakub Onderka",
         "email": "jakub.onderka@gmail.com"
     }],
